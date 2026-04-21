@@ -72,6 +72,7 @@ FINAL RESULT
 
 ## 📥 Getting Started
 1. **Clone the repo.**
-2. **Environment:** Ensure you have `tensorflow >= 2.10`, `seaborn`, `scikit-learn`, and `matplotlib` installed.
-3. **Data:** Download the [MIT-BIH Arrhythmia Dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) and update file paths in the preprocessing notebook.
-4. **Run:** Execute the notebooks in the directory sequentially.
+2. Start with data preprocessing and then follow the instructions in each cell to regenerate similar results.
+3. **Environment:** Ensure you have `tensorflow >= 2.10`, `seaborn`, `scikit-learn`, and `matplotlib` installed.
+4. **Data:** Download the [MIT-BIH Arrhythmia Dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) and update file paths in the preprocessing notebook.
+5. **Run:** Execute the notebooks in the directory sequentially.
